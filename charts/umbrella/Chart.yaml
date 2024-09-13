@@ -30,7 +30,7 @@ maintainers:
 dependencies:
   - name: sub1
     version: 0.1.0
-    repository: file://../sub1
+    repository: file://./charts/sub1
   - name: sub2
     version: 0.1.0
-    repository: file://../sub2
+    repository: file://./charts/sub2
